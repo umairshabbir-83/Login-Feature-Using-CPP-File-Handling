@@ -5,12 +5,12 @@ This repository contains the source file of a console-based application with a `
 ## Data to Test Source File
 
 |    Username     | Password |
-| :-------------: | :------: |
-| hs123@gmail.com |  hs123   |
-| us123@gmail.com |  us123   |
-| ga123@gmail.com |  ga123   |
-| ni123@gmail.com |  ni123   |
-| am123@gmail.com |  am123   |
+| :-: | :-: |
+| <am123@gmail.com> |  am123   |
+| <ga123@gmail.com> |  ga123   |
+| <hs123@gmail.com> |  hs123   |
+| <ni123@gmail.com> |  ni123   |
+| <us123@gmail.com> |  us123   |
 
 ## Note
 
